@@ -1,0 +1,10 @@
+{
+  "performanceOverview": {
+    "header": "Performance Overview",
+    "body": "Learn about a teammate or opponent's performance with detailed data and see how they have been performing in their recent games"
+  },
+  "performanceInsight": {
+    "header": "Performance Insight",
+    "body": "Learn about a player's performance with instant data analysis and key insights to improve your gameplay"
+  }
+}
